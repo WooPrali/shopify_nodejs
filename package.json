@@ -1,0 +1,22 @@
+{
+  "name": "shopify_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WooPrali/shopify_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WooPrali/shopify_nodejs/issues"
+  },
+  "homepage": "https://github.com/WooPrali/shopify_nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
